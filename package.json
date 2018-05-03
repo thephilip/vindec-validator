@@ -1,0 +1,9 @@
+{
+  "name": "vindec-validator",
+  "version": "1.0.0",
+  "description": "A VIN validator",
+  "main": "index.js",
+  "repository": "https://github.com/thephilip/vincec-validator",
+  "author": "Philip Smith <thephilipsmith@gmail.com>",
+  "license": "MIT"
+}
