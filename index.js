@@ -1,4 +1,6 @@
 
+const translit = JSON.parse(JSON.stringify(require('./transliterals.json')))
+
 exports.valid =  function(vin) {
   let toValidate = vin.toUpperCase()
   const vinArray = vin.split('')
