@@ -1,6 +1,6 @@
 
 # Vindec VIN (Vehicle Identification Number) Validator
-###### Used by the Vindec package to validate VIN numbers.
+###### Used by the Vindec package to validate VIN numbers, but may also be used as a standalone package.
 
 ## Installation
 [![NPM](https://nodei.co/npm/vindec-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/<package>/)
