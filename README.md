@@ -3,7 +3,7 @@
 ###### Used by the Vindec package to validate VIN numbers, but may also be used as a standalone package.
 
 ## Installation
-[![NPM](https://nodei.co/npm/vindec-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/<package>/)
+[![NPM](https://nodei.co/npm/vindec-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vindec-validator/)
 
 Install with either `npm i vindec-validator` or `yard add vindec-validator`.  If you are interested in learning how I implemented the algorithm or would like to create your own implementation (or update this one!?), I found the following article to be extremely beneficial.
 
