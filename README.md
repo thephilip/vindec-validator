@@ -5,7 +5,9 @@
 ## Installation
 [![NPM](https://nodei.co/npm/vindec-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/<package>/)
 
-Install with either `npm i vindec-validator` or `yard add vindec-validator`.
+Install with either `npm i vindec-validator` or `yard add vindec-validator`.  If you are interested in learning how I implemented the algorithm or would like to create your own implementation (or update this one!?), I found the following read to be extremely beneficial.
+
+[DataOne Software](https://vin.dataonesoftware.com/vin_basics_blog/bid/112040/use-vin-validation-to-improve-inventory-quality)
 
 ## Usage
 ```javascript
