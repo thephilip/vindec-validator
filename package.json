@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "A vehicle Identification number (VIN) validator",
   "main": "index.js",
-  "repository": "https://github.com/thephilip/vincec-validator",
+  "repository": "https://github.com/thephilip/vindec-validator",
   "author": "Philip Smith <thephilipsmith@gmail.com>",
   "license": "MIT"
 }
