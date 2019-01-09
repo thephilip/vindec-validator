@@ -27,7 +27,7 @@ exports.valid =  function(vin) {
   // compute remainder
   let remainder = weightedSum % 11
 
-  if (remainder === Number(toValidate.charAt(8))) {
+  if (remainder == toValidate.charAt(8) || (toValidate.charAt(8) == 'X' && remainder == 10)) {
     return true
   }
 
