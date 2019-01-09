@@ -1,6 +1,6 @@
 {
   "name": "vindec-validator",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A vehicle Identification number (VIN) validator",
   "main": "index.js",
   "repository": "https://github.com/thephilip/vindec-validator",
