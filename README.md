@@ -5,7 +5,7 @@
 ## Installation
 [![NPM](https://nodei.co/npm/vindec-validator.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/vindec-validator/)
 
-Install with either `npm i vindec-validator` or `yard add vindec-validator`.  If you are interested in learning how I implemented the algorithm or would like to create your own implementation (or update this one!?), I found the following article to be extremely beneficial.
+Install with either `npm i vindec-validator` or `yarn add vindec-validator`.  If you are interested in learning how I implemented the algorithm or would like to create your own implementation (or update this one!?), I found the following article to be extremely beneficial.
 
 [Use VIN Validation to Improve Inventory Quality](https://vin.dataonesoftware.com/vin_basics_blog/bid/112040/use-vin-validation-to-improve-inventory-quality) by Joe Kiley
 
